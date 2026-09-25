@@ -1,0 +1,15 @@
+{
+  "name": "survivalcraft-ws-server",
+  "version": "1.0.0",
+  "description": "生存战争小游戏自建 WebSocket 实时通信服务器",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
